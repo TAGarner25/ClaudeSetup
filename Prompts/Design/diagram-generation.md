@@ -14,6 +14,8 @@ topics:
 
 ## Prompt
 
+Copy the prompt below and replace the information in brackets ("[ ]") with infromation specific to your use case. 
+
 ```
 ROLE
 You are a senior information designer and technical researcher creating a 
