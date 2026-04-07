@@ -1,14 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch",
-      "WebFetch(domain:blog.google)",
-      "WebFetch(domain:www.codecademy.com)",
-      "WebFetch(domain:github.com)",
-      "WebFetch(domain:www.index.dev)",
-      "WebFetch(domain:stitch.withgoogle.com)",
-      "WebFetch(domain:www.mindstudio.ai)",
-      "WebFetch(domain:developers.googleblog.com)"
+      "WebSearch"
     ]
   }
 }
