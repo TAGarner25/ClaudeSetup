@@ -1,3 +1,16 @@
+---
+title: Complete Claude Setup Guide
+description: A comprehensive guide to understanding, installing, and maximizing Claude.
+created: 04/02/2026
+updated: 04/07/2026
+topics:
+    - Claude
+    - AI
+    - Tools
+    - Setup
+---
+
+
 # The Complete Claude Setup Guide
 *A comprehensive guide to understanding, installing, and maximizing Claude — written for beginners and power users alike.*
 

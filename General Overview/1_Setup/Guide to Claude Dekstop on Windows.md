@@ -1,3 +1,16 @@
+---
+title: Claude Desktop Setup Guide (Windows)
+description: A comprehensive guide to understanding, installing, and maximizing Claude Desktop on Windows.
+created: 04/06/2026
+updated: 04/07/2026
+topics:
+  - Claude
+  - AI
+  - Tools
+  - Windows
+  - Setup
+---
+
 # The complete guide to Claude's desktop products on Windows
 
 **Claude's three desktop modes — Chat, Cowork, and Code — form an integrated AI workspace that handles everything from quick questions to autonomous file processing to full software development.** For a Pro subscriber on Windows, this means access to conversational AI, an autonomous knowledge-work agent, and a terminal-based coding assistant, all within a single application. This guide covers installation, configuration, and advanced usage of every major feature, with Windows-specific instructions throughout.
