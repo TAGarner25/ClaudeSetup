@@ -1,10 +1,18 @@
-PROMPT: The Fidelity College Savings Architect
+---
+title: "Fidelity College Savings Architect"
+series: B — Personal Finance
+number: 18
+tags: [education-savings, 529-plan, financial-planning]
+---
 
-"You are a senior education savings strategist at Fidelity Investments who helps families build college funds that cover tuition at top universities without crippling the family's overall financial plan.
+# Fidelity College Savings Architect
+
+> You are a senior education savings strategist at Fidelity Investments who helps families build college funds that cover tuition at top universities without crippling the family's overall financial plan.
 
 I need a complete college savings strategy for my children.
 
 Plan:
+
 - Total cost projection: estimated cost of 4-year college at public, private, and elite universities when my child enrolls
 - 529 plan analysis: best state 529 plan for my situation with tax benefits calculated
 - Monthly savings target: exact amount to save each month starting now to cover projected costs
@@ -17,4 +25,6 @@ Plan:
 - Worst-case plan: what to do if savings fall short (loans, community college transfer, work-study)
 
 Format as a Fidelity-style education savings plan with cost projections, savings milestone tables, and an investment allocation timeline.
-My family: [DESCRIBE YOUR CHILDREN'S AGES, TARGET SCHOOLS, CURRENT SAVINGS, MONTHLY SAVINGS CAPACITY, STATE OF RESIDENCE, AND INCOME]"
+
+**My family:**
+`[DESCRIBE YOUR CHILDREN'S AGES, TARGET SCHOOLS, CURRENT SAVINGS, MONTHLY SAVINGS CAPACITY, STATE OF RESIDENCE, AND INCOME]`

@@ -1,7 +1,6 @@
 # Finance Prompts Explained
-**Source:** growmoneyceo TikTok post, March 7  
-**Total Prompts:** 10  
-**Theme:** Institutional-grade financial analysis using AI role-play personas from elite firms
+*Total Prompts: 20*
+*Theme: Institutional-grade financial analysis using AI role-play personas from elite firms*
 
 > **⚠️ Critical Disclaimer:** All outputs from these prompts are AI-generated and must be treated as educational frameworks, NOT financial advice. AI models have training data cutoffs, cannot access real-time market data unless connected to live tools, and are not licensed financial advisors. Always verify outputs against current data and consult a licensed professional before making investment decisions.
 
@@ -10,33 +9,133 @@
 ## Table of Contents
 
 ### Series A — Investment & Trading Prompts (growmoneyceo / daytrading & artificialintelligenceee)
-1. [Goldman Sachs-Level Stock Screener](#1-goldman-sachs-level-stock-screener)
-2. [Morgan Stanley-Style DCF Valuation Deep Dive](#2-morgan-stanley-style-dcf-valuation-deep-dive)
-3. [Bridgewater-Inspired Risk Analysis Framework](#3-bridgewater-inspired-risk-analysis-framework)
-4. [JPMorgan-Level Earnings Breakdown](#4-jpmorgan-level-earnings-breakdown)
-5. [BlackRock-Style Portfolio Construction Model](#5-blackrock-style-portfolio-construction-model)
-6. [Citadel-Grade Technical Analysis System](#6-citadel-grade-technical-analysis-system)
-7. [Harvard Endowment-Inspired Dividend Strategy](#7-harvard-endowment-inspired-dividend-strategy)
-8. [Bain-Style Competitive Advantage Analysis](#8-bain-style-competitive-advantage-analysis)
-9. [Renaissance Technologies Pattern Finder](#9-renaissance-technologies-pattern-finder)
-10. [McKinsey-Level Macro Impact Assessment](#10-mckinsey-level-macro-impact-assessment)
+1. [Goldman Sachs-Level Stock Screener](01_Goldman_Sachs_Stock_Screener.md)
+2. [Morgan Stanley-Style DCF Valuation Deep Dive](02_Morgan_Stanley_DCF_Valuation.md)
+3. [Bridgewater-Inspired Risk Analysis Framework](03_Bridgewater_Risk_Analysis_Framework.md)
+4. [JPMorgan-Level Earnings Breakdown](04_JPMorgan_Earnings_Breakdown.md)
+5. [BlackRock-Style Portfolio Construction Model](05_BlackRock_Portfolio_Construction.md)
+6. [Citadel-Grade Technical Analysis System](06_Citadel_Technical_Analysis_System.md)
+7. [Harvard Endowment-Inspired Dividend Strategy](07_Harvard_Endowment_Dividend_Strategy.md)
+8. [Bain-Style Competitive Advantage Analysis](08_Bain_Competitive_Advantage_Analysis.md)
+9. [Renaissance Technologies Pattern Finder](09_Renaissance_Technologies_Pattern_Finder.md)
+10. [McKinsey-Level Macro Impact Assessment](10_McKinsey_Macro_Impact_Assessment.md)
 
 ### Series B — Personal Finance & Wealth Planning Prompts (evolving.ai)
-11. [Goldman Sachs Wealth Diagnostic](#11-goldman-sachs-wealth-diagnostic)
-12. [Vanguard Retirement Planning Calculator](#12-vanguard-retirement-planning-calculator)
-13. [Morgan Stanley Investment Portfolio Architect](#13-morgan-stanley-investment-portfolio-architect)
-14. [Deloitte Tax Optimization Strategist](#14-deloitte-tax-optimization-strategist)
-15. [JPMorgan Debt Elimination Engineer](#15-jpmorgan-debt-elimination-engineer)
-16. [Charles Schwab Emergency Fund and Cash Strategy](#16-charles-schwab-emergency-fund-and-cash-strategy)
-17. [Northwestern Mutual Insurance Audit](#17-northwestern-mutual-insurance-audit)
-18. [Fidelity College Savings Architect](#18-fidelity-college-savings-architect)
-19. [Edward Jones Estate Planning Organizer](#19-edward-jones-estate-planning-organizer)
-20. [Wealthfront Real Estate Investment Analyzer](#20-wealthfront-real-estate-investment-analyzer)
+11. [Goldman Sachs Wealth Diagnostic](11_Goldman_Sachs_Wealth_Diagnostic.md)
+12. [Vanguard Retirement Planning Calculator](12_Vanguard_Retirement_Planning_Calculator.md)
+13. [Morgan Stanley Investment Portfolio Architect](13_Morgan_Stanley_Investment_Portfolio_Architect.md)
+14. [Deloitte Tax Optimization Strategist](14_Deloitte_Tax_Optimization_Strategist.md)
+15. [JPMorgan Debt Elimination Engineer](15_JPMorgan_Debt_Elimination_Engineer.md)
+16. [Charles Schwab Emergency Fund and Cash Strategy](16_Charles_Schwab_Emergency_Fund_Cash_Strategy.md)
+17. [Northwestern Mutual Insurance Audit](17_Northwestern_Mutual_Insurance_Audit.md)
+18. [Fidelity College Savings Architect](18_Fidelity_College_Savings_Architect.md)
+19. [Edward Jones Estate Planning Organizer](19_Edward_Jones_Estate_Planning_Organizer.md)
+20. [Wealthfront Real Estate Investment Analyzer](20_Wealthfront_Real_Estate_Investment_Analyzer.md)
+
+---
+
+## Cross-Prompt Integration Map
+
+The prompts across both series are most powerful when chained. Series A (investment/trading) and Series B (personal finance) address different layers of financial life but connect at several key points.
+
+### Series A: Investment Research Workflow
+```
+SECTOR SELECTION
+    │
+    ▼
+Prompt 8 (Bain Competitive Analysis)
+"Which company in this sector is the best?"
+    │
+    ▼
+Prompt 1 (Goldman Sachs Stock Screener)
+"Screen for top picks matching my profile"
+    │
+    ├──────────────────────────────────────┐
+    ▼                                      ▼
+Prompt 2 (Morgan Stanley DCF)         Prompt 9 (Renaissance Patterns)
+"What is it worth?"                    "When should I act?"
+    │                                      │
+    └──────────────┬───────────────────────┘
+                   ▼
+    Prompt 6 (Citadel Technical Analysis)
+    "Where are the key price levels?"
+                   │
+                   ▼
+    Prompt 4 (JPMorgan Earnings Preview)
+    "What's the near-term catalyst?"
+                   │
+    ┌──────────────┴──────────────────────┐
+    ▼                                     ▼
+Prompt 3 (Bridgewater Risk)         Prompt 10 (McKinsey Macro)
+"How much risk am I taking?"         "What macro tailwinds/headwinds?"
+    │                                     │
+    └──────────────┬──────────────────────┘
+                   ▼
+    Prompt 5 (BlackRock Portfolio Construction)
+    "How does this fit into my overall portfolio?"
+                   │
+                   ▼
+    Prompt 7 (Harvard Dividend Strategy)
+    "How do I generate income from this position?"
+```
+
+### Series B: Personal Finance Planning Workflow
+```
+START HERE: Full Financial Picture
+    │
+    ▼
+Prompt 11 (Goldman Sachs Wealth Diagnostic)
+"Where do I stand across all financial dimensions?"
+    │
+    ├─────────────────────┬─────────────────────┐
+    ▼                     ▼                     ▼
+Prompt 15              Prompt 16             Prompt 17
+(JPMorgan Debt)    (Schwab Emergency)    (NW Mutual Insurance)
+"Pay off debt"      "Build safety net"    "Fix coverage gaps"
+    │                     │                     │
+    └─────────────────────┼─────────────────────┘
+                          ▼
+               Prompt 14 (Deloitte Tax)
+               "Minimize what I owe"
+                          │
+               ┌──────────┼──────────┐
+               ▼          ▼          ▼
+          Prompt 12   Prompt 13  Prompt 18
+         (Vanguard   (MS Portfolio (Fidelity
+        Retirement)  Architect)    College)
+        "Retire when  "Build the    "Fund the
+         I want"       portfolio"    kids"
+               │          │
+               └────┬─────┘
+                    ▼
+          Prompt 19 (Edward Jones Estate)
+          "Protect and transfer wealth"
+                    │
+                    ▼
+          Prompt 20 (Wealthfront Real Estate)
+          "Should I add real estate?"
+```
+
+### Series A ↔ Series B Connection Points
+- **Prompts 3 + 11:** Bridgewater Risk Assessment feeds into the investment allocation dimension of the Wealth Diagnostic
+- **Prompts 5/13:** BlackRock Portfolio Construction and Morgan Stanley Portfolio Architect both produce investment policy statements — use whichever matches your complexity level
+- **Prompts 7 + 12:** Harvard Dividend Strategy and Vanguard Retirement both address income generation — align dividend strategy with retirement withdrawal plan
+- **Prompts 10 + 14:** McKinsey Macro Assessment informs sector rotation; Deloitte Tax informs tax-efficient implementation of those rotations
+- **Prompts 2 + 20:** Morgan Stanley DCF (stocks) and Wealthfront Real Estate use similar NPV/cash flow frameworks — applying both creates consistent analytical standards across asset classes
+
+---
+
+## Universal Improvement Principles for All Prompts
+
+1. **Always provide real, specific inputs** — Every prompt has a bracketed placeholder. The quality of output scales directly with input specificity.
+2. **Pair AI output with live data tools** — AI has knowledge cutoffs. Always verify specific numbers (yields, P/E ratios, prices) against current data from Morningstar, Koyfin, TIKR, or Yahoo Finance.
+3. **Request confidence flagging** — Add "Flag any data point that may be outdated or that requires real-time verification" to any prompt.
+4. **Use iterative refinement** — After the first output, follow up with "Drill deeper into [specific section]" or "Revise assuming [changed assumption]."
+5. **Never treat outputs as advice** — Use these prompts to build frameworks and generate hypotheses, then validate with licensed professionals and real data before acting.
 
 ---
 
 ## Series A — Investment & Trading Prompts
-*Source: growmoneyceo / daytrading and artificialintelligenceee (TikTok, March 3–9)*
 *Focus: Stock screening, valuation, technical analysis, portfolio construction, macro analysis*
 
 ---
@@ -1207,108 +1306,6 @@ A real estate investment analysis containing:
 
 ---
 
-## Cross-Prompt Integration Map
-
-The prompts across both series are most powerful when chained. Series A (investment/trading) and Series B (personal finance) address different layers of financial life but connect at several key points.
-
-### Series A: Investment Research Workflow
-```
-SECTOR SELECTION
-    │
-    ▼
-Prompt 8 (Bain Competitive Analysis)
-"Which company in this sector is the best?"
-    │
-    ▼
-Prompt 1 (Goldman Sachs Stock Screener)
-"Screen for top picks matching my profile"
-    │
-    ├──────────────────────────────────────┐
-    ▼                                      ▼
-Prompt 2 (Morgan Stanley DCF)         Prompt 9 (Renaissance Patterns)
-"What is it worth?"                    "When should I act?"
-    │                                      │
-    └──────────────┬───────────────────────┘
-                   ▼
-    Prompt 6 (Citadel Technical Analysis)
-    "Where are the key price levels?"
-                   │
-                   ▼
-    Prompt 4 (JPMorgan Earnings Preview)
-    "What's the near-term catalyst?"
-                   │
-    ┌──────────────┴──────────────────────┐
-    ▼                                     ▼
-Prompt 3 (Bridgewater Risk)         Prompt 10 (McKinsey Macro)
-"How much risk am I taking?"         "What macro tailwinds/headwinds?"
-    │                                     │
-    └──────────────┬──────────────────────┘
-                   ▼
-    Prompt 5 (BlackRock Portfolio Construction)
-    "How does this fit into my overall portfolio?"
-                   │
-                   ▼
-    Prompt 7 (Harvard Dividend Strategy)
-    "How do I generate income from this position?"
-```
-
-### Series B: Personal Finance Planning Workflow
-```
-START HERE: Full Financial Picture
-    │
-    ▼
-Prompt 11 (Goldman Sachs Wealth Diagnostic)
-"Where do I stand across all financial dimensions?"
-    │
-    ├─────────────────────┬─────────────────────┐
-    ▼                     ▼                     ▼
-Prompt 15              Prompt 16             Prompt 17
-(JPMorgan Debt)    (Schwab Emergency)    (NW Mutual Insurance)
-"Pay off debt"      "Build safety net"    "Fix coverage gaps"
-    │                     │                     │
-    └─────────────────────┼─────────────────────┘
-                          ▼
-               Prompt 14 (Deloitte Tax)
-               "Minimize what I owe"
-                          │
-               ┌──────────┼──────────┐
-               ▼          ▼          ▼
-          Prompt 12   Prompt 13  Prompt 18
-         (Vanguard   (MS Portfolio (Fidelity
-        Retirement)  Architect)    College)
-        "Retire when  "Build the    "Fund the
-         I want"       portfolio"    kids"
-               │          │
-               └────┬─────┘
-                    ▼
-          Prompt 19 (Edward Jones Estate)
-          "Protect and transfer wealth"
-                    │
-                    ▼
-          Prompt 20 (Wealthfront Real Estate)
-          "Should I add real estate?"
-```
-
-### Series A ↔ Series B Connection Points
-- **Prompts 3 + 11:** Bridgewater Risk Assessment feeds into the investment allocation dimension of the Wealth Diagnostic
-- **Prompts 5/13:** BlackRock Portfolio Construction and Morgan Stanley Portfolio Architect both produce investment policy statements — use whichever matches your complexity level
-- **Prompts 7 + 12:** Harvard Dividend Strategy and Vanguard Retirement both address income generation — align dividend strategy with retirement withdrawal plan
-- **Prompts 10 + 14:** McKinsey Macro Assessment informs sector rotation; Deloitte Tax informs tax-efficient implementation of those rotations
-- **Prompts 2 + 20:** Morgan Stanley DCF (stocks) and Wealthfront Real Estate use similar NPV/cash flow frameworks — applying both creates consistent analytical standards across asset classes
-
----
-
-## Universal Improvement Principles for All Prompts
-
-1. **Always provide real, specific inputs** — Every prompt has a bracketed placeholder. The quality of output scales directly with input specificity.
-2. **Pair AI output with live data tools** — AI has knowledge cutoffs. Always verify specific numbers (yields, P/E ratios, prices) against current data from Morningstar, Koyfin, TIKR, or Yahoo Finance.
-3. **Request confidence flagging** — Add "Flag any data point that may be outdated or that requires real-time verification" to any prompt.
-4. **Use iterative refinement** — After the first output, follow up with "Drill deeper into [specific section]" or "Revise assuming [changed assumption]."
-5. **Never treat outputs as advice** — Use these prompts to build frameworks and generate hypotheses, then validate with licensed professionals and real data before acting.
-
----
-
-*Document generated: 2026-03-19 (updated with Series B)*  
-*Source prompts: growmoneyceo / daytrading & artificialintelligenceee TikTok carousel (March 3–9) + evolving.ai TikTok carousel (February 20)*  
+*Document generated: 2026-03-19 (updated with Series B)*    
 *Total prompts: 20 across 2 series*  
 *Tags: #finance #investing #personal-finance #prompt-engineering #stock-analysis #portfolio-management #retirement #tax-optimization #debt-elimination #estate-planning #real-estate #AI-tools*

@@ -1,10 +1,18 @@
-PROMPT: The Charles Schwab Emergency Fund and Cash Strategy
+---
+title: "Charles Schwab Emergency Fund and Cash Strategy"
+series: B — Personal Finance
+number: 16
+tags: [emergency-fund, cash-management, savings]
+---
 
-"You are a senior financial planning director at Charles Schwab who helps families build bulletproof financial safety nets that protect against job loss, medical emergencies, and economic downturns.
+# Charles Schwab Emergency Fund and Cash Strategy
+
+> You are a senior financial planning director at Charles Schwab who helps families build bulletproof financial safety nets that protect against job loss, medical emergencies, and economic downturns.
 
 I need a complete cash management and emergency fund strategy.
 
 Build:
+
 - Emergency fund target: exact dollar amount I need based on my expenses, income stability, and family size
 - Savings acceleration plan: how to build my emergency fund in 6-12 months without feeling broke
 - Account placement strategy: where to park emergency cash for maximum interest while staying liquid
@@ -17,4 +25,6 @@ Build:
 - Cash flow calendar: map every income and expense to specific dates to avoid overdrafts and optimize timing
 
 Format as a Charles Schwab-style cash management plan with account recommendations, savings milestones, and an automated transfer schedule.
-My situation: [DESCRIBE YOUR MONTHLY INCOME, EXPENSES, CURRENT SAVINGS, JOB STABILITY, DEPENDENTS, AND HOW QUICKLY YOU WANT YOUR EMERGENCY FUND BUILT]"
+
+**My situation:**
+`[DESCRIBE YOUR MONTHLY INCOME, EXPENSES, CURRENT SAVINGS, JOB STABILITY, DEPENDENTS, AND HOW QUICKLY YOU WANT YOUR EMERGENCY FUND BUILT]`

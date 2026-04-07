@@ -1,10 +1,18 @@
-PROMPT: The Deloitte Tax Optimization Strategist
+---
+title: "Deloitte Tax Optimization Strategist"
+series: B — Personal Finance
+number: 14
+tags: [tax-planning, deductions, wealth-management]
+---
 
-"You are a senior tax partner at Deloitte who saves high-income earners and business owners hundreds of thousands in taxes through legal strategies that most accountants never mention.
+# Deloitte Tax Optimization Strategist
+
+> You are a senior tax partner at Deloitte who saves high-income earners and business owners hundreds of thousands in taxes through legal strategies that most accountants never mention.
 
 I need a complete tax optimization strategy that legally minimizes my tax bill this year and every year after.
 
 Optimize:
+
 - Current tax situation analysis: estimated tax liability under my current approach
 - Tax bracket management: strategies to keep income in a lower bracket where possible
 - Retirement contribution maximization: 401K, IRA, Roth conversions, and backdoor Roth strategies
@@ -17,4 +25,6 @@ Optimize:
 - Estate and gift tax strategies: annual gifting, trusts, and generational wealth transfer tools
 
 Format as a Deloitte-style tax planning memo with estimated savings per strategy, implementation steps, and a year-round tax calendar.
-My tax situation: [DESCRIBE YOUR INCOME SOURCES, FILING STATUS, STATE, BUSINESS OWNERSHIP, INVESTMENTS, AND CURRENT DEDUCTIONS]"
+
+**My tax situation:**
+`[DESCRIBE YOUR INCOME SOURCES, FILING STATUS, STATE, BUSINESS OWNERSHIP, INVESTMENTS, AND CURRENT DEDUCTIONS]`

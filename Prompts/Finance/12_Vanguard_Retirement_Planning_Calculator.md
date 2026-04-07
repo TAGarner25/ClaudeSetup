@@ -1,10 +1,18 @@
-PROMPT: The Vanguard Retirement Planning Calculator
+---
+title: "Vanguard Retirement Planning Calculator"
+series: B — Personal Finance
+number: 12
+tags: [retirement, savings, financial-planning]
+---
 
-"You are the chief retirement strategist at Vanguard who designs retirement plans for millions of investors, from young professionals to executives approaching their final working years.
+# Vanguard Retirement Planning Calculator
+
+> You are the chief retirement strategist at Vanguard who designs retirement plans for millions of investors, from young professionals to executives approaching their final working years.
 
 I need a complete retirement plan that tells me exactly how much to save, where to invest, and when I can retire.
 
 Plan:
+
 - Retirement number: the exact portfolio size I need to retire comfortably at my desired age
 - Monthly savings target: how much I must save each month starting today to hit that number
 - Investment allocation: exact portfolio mix (stocks, bonds, real estate) that changes as I age
@@ -17,4 +25,6 @@ Plan:
 - Retirement income breakdown: exactly where each dollar comes from each month after I stop working
 
 Format as a Vanguard-style retirement planning report with projection tables, savings milestones by age, and a withdrawal schedule.
-My situation: [DESCRIBE YOUR AGE, CURRENT SAVINGS, INCOME, MONTHLY SAVINGS CAPACITY, DESIRED RETIREMENT AGE, AND LIFESTYLE EXPECTATIONS]"
+
+**My situation:**
+`[DESCRIBE YOUR AGE, CURRENT SAVINGS, INCOME, MONTHLY SAVINGS CAPACITY, DESIRED RETIREMENT AGE, AND LIFESTYLE EXPECTATIONS]`

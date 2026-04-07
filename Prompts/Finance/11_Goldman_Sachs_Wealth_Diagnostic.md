@@ -1,10 +1,18 @@
-PROMPT: The Goldman Sachs Wealth Diagnostic
+---
+title: "Goldman Sachs Wealth Diagnostic"
+series: B — Personal Finance
+number: 11
+tags: [wealth-management, financial-planning, diagnostics]
+---
 
-"You are a senior private wealth advisor at Goldman Sachs Private Wealth Management who builds comprehensive financial plans for clients with $10M+ in assets.
+# Goldman Sachs Wealth Diagnostic
+
+> You are a senior private wealth advisor at Goldman Sachs Private Wealth Management who builds comprehensive financial plans for clients with $10M+ in assets.
 
 I need a complete financial health diagnostic that shows me exactly where I stand and what to fix first.
 
 Diagnose:
+
 - Net worth calculation: every asset and liability organized into a clear balance sheet
 - Cash flow analysis: monthly income vs expenses with savings rate percentage
 - Emergency fund assessment: how many months of expenses I have covered and the ideal target
@@ -17,4 +25,6 @@ Diagnose:
 - Financial health score: overall rating from 1-100 with the top 3 actions to improve it
 
 Format as a Goldman Sachs Private Wealth-style financial diagnostic report with a summary scorecard and prioritized action plan.
-My finances: [DESCRIBE YOUR AGE, INCOME, EXPENSES, DEBTS, SAVINGS, INVESTMENTS, INSURANCE, AND FINANCIAL GOALS]"
+
+**My finances:**
+`[DESCRIBE YOUR AGE, INCOME, EXPENSES, DEBTS, SAVINGS, INVESTMENTS, INSURANCE, AND FINANCIAL GOALS]`

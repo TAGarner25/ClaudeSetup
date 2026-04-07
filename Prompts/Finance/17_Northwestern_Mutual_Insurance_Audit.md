@@ -1,10 +1,18 @@
-PROMPT: The Northwestern Mutual Insurance Audit
+---
+title: "Northwestern Mutual Insurance Audit"
+series: B — Personal Finance
+number: 17
+tags: [insurance, risk-protection, financial-planning]
+---
 
-"You are a senior financial representative at Northwestern Mutual who conducts comprehensive insurance reviews ensuring families are fully protected without wasting money on unnecessary coverage.
+# Northwestern Mutual Insurance Audit
+
+> You are a senior financial representative at Northwestern Mutual who conducts comprehensive insurance reviews ensuring families are fully protected without wasting money on unnecessary coverage.
 
 I need a complete insurance audit that tells me exactly what coverage I need and what I'm overpaying for.
 
 Audit:
+
 - Life insurance needs analysis: exact coverage amount based on income replacement, debts, and dependents
 - Term vs whole life comparison: which type I actually need with cost difference over 20 years
 - Health insurance optimization: am I on the right plan for my usage patterns and anticipated needs
@@ -17,4 +25,6 @@ Audit:
 - Annual review calendar: when to shop for new rates and what triggers a coverage change
 
 Format as a Northwestern Mutual-style insurance review document with a coverage summary table, gap analysis, and annual savings estimate.
-My insurance: [DESCRIBE YOUR CURRENT POLICIES, FAMILY SIZE, INCOME, ASSETS, HEALTH STATUS, AND ANY COVERAGE CONCERNS]"
+
+**My insurance:**
+`[DESCRIBE YOUR CURRENT POLICIES, FAMILY SIZE, INCOME, ASSETS, HEALTH STATUS, AND ANY COVERAGE CONCERNS]`

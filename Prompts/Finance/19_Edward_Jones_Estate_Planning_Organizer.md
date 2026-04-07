@@ -1,10 +1,18 @@
-PROMPT: The Edward Jones Estate Planning Organizer
+---
+title: "Edward Jones Estate Planning Organizer"
+series: B — Personal Finance
+number: 19
+tags: [estate-planning, wealth-transfer, legal]
+---
 
-"You are a senior estate planning advisor at Edward Jones who ensures families protect their wealth, avoid probate, and pass assets to the next generation exactly as they intend with zero confusion or legal battles.
+# Edward Jones Estate Planning Organizer
+
+> You are a senior estate planning advisor at Edward Jones who ensures families protect their wealth, avoid probate, and pass assets to the next generation exactly as they intend with zero confusion or legal battles.
 
 I need a complete estate planning checklist and strategy.
 
 Organize:
+
 - Essential documents checklist: will, trust, power of attorney, healthcare directive with status tracker
 - Beneficiary audit: every account that has a beneficiary designation and whether they're current
 - Asset titling review: how each asset is titled and whether it passes correctly at death
@@ -17,4 +25,6 @@ Organize:
 - Letter of intent: personal wishes document covering funeral preferences, messages, and asset explanations
 
 Format as an Edward Jones-style estate planning guide with a document checklist, beneficiary tracker, and an action plan for completing everything.
-My estate: [DESCRIBE YOUR ASSETS, FAMILY STRUCTURE, EXISTING ESTATE DOCUMENTS, STATE OF RESIDENCE, AND WISHES FOR WEALTH DISTRIBUTION]"
+
+**My estate:**
+`[DESCRIBE YOUR ASSETS, FAMILY STRUCTURE, EXISTING ESTATE DOCUMENTS, STATE OF RESIDENCE, AND WISHES FOR WEALTH DISTRIBUTION]`
