@@ -6,8 +6,14 @@ updated: 2026-04-06
 topics:
   - Google
   - AI
-  - Products
-  - Services
+  - Gemini
+  - DeepMind
+  - Design
+  - Coding
+  - Video
+  - Agents
+  - Research
+  - Open Source
 ---
 
 ## Google's Complate AI Stack
@@ -24,6 +30,21 @@ topics:
 
 ## Coding
 
-## Research
-
 ## Design
+
+## Additional Resources
+
+### Companies
+
+#### DeepMind
+
+### Products
+
+#### Open Source
+
+### Research
+
+[Insert fields of research here]
+
+---
+#google #ai #gemini #deepmind #design #coding #video #agents #research #opensource 
