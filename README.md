@@ -1,10 +1,6 @@
 ---
-tags:
-  - para/area
-  - status/active
-  - type/moc
-  - claude
-  - ai
+title: Claude Setup Documents
+description: Tips, tricks, and other information on how to setup and use Claude (or other AI tools).
 created: 2026-03-23
 updated: 2026-04-06
 ---
