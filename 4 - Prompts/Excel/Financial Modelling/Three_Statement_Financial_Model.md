@@ -1,4 +1,4 @@
-# PROMPT
+# PROMPT - Copy & Paste Everything Below Into Claude Excel Plugin
 
 Create a comprehensive three-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) in Excel with full integration and error-checking capabilities. The model should include historical periods and multi-scenario projections.
 
