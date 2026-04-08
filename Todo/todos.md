@@ -10,9 +10,9 @@ topics:
 
 ## 1. General Overview
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Update docs
+- [ ] Ensure all folders have a README.md file that is updated and accurate
+- [ ] Ensure all README.md files have a brief description of the folder and how to use it
 - [ ] 
 - [ ] 
 - [ ] 
@@ -34,8 +34,8 @@ topics:
 
 ## 2. Resources
 
-- [ ] 
-- [ ] 
+- [ ] Update resources folder with new resources
+- [ ] Restructure resources folder to be more organized with subfolders based off use case category
 - [ ] 
 - [ ] 
 - [ ] 
@@ -58,9 +58,9 @@ topics:
 
 ## 3. Cheat Sheets
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Create folder of screenshots/pictures of various cheat sheets found on social media
+- [ ] Create README.md for the cheat sheets folder that contains a brief description of each cheat sheet and how to use it
+- [ ] Create custome cheat sheets for various topics
 - [ ] 
 - [ ] 
 - [ ] 
@@ -82,10 +82,10 @@ topics:
 
 ## 4. Prompts
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Update prompts folder with new prompts
+- [ ] Restructure prompts folder to be more organized with subfolders based off use case category
+- [ ] Ensure all folders have a README.md file that is updated and accurate
+- [ ] Update docs
 - [ ] 
 - [ ] 
 - [ ] 
