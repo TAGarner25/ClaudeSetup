@@ -8,6 +8,16 @@ topics:
 
 # Todo List
 
+## 0. General
+
+- [ ] complete general overview todos
+- [ ] complete resources todos
+- [ ] complete cheat sheets todos
+- [ ] complete prompts todos
+- [ ] complete skills todos
+- [ ] complete plugins todos
+- [ ] complete hooks todos
+
 ## 1. General Overview
 
 - [ ] Update docs
