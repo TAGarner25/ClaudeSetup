@@ -17,10 +17,37 @@ updated: 2026-04-16
 
 ## AI Research
 
-
+- [Arxiv - Cornell University Preprint Server]
+- Hugging Face
 
 ## AI Lab Blogs
 
+### Google
+
+- [Google Blog - The Keyword](https://blog.google/)
+    - [Innovations & AI](https://blog.google/innovation-and-ai/)
+        - [Models & Research](https://blog.google/innovation-and-ai/models-and-research/)
+- Deepmind
+- Google research
+- Google Cloud
+
+### Microsoft
+
+- blog
+
+### Anthropic
+
+- blog
+
+### Meta
+
+- blog
+
+### OpenAI
+
+- blog
+
+### Hugging Face
 
 
 ## Developer Blogs & Social Media Accounts
