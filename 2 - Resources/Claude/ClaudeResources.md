@@ -155,5 +155,5 @@ topics: claude, claude-code, desktop, skills, plugins, prompts, designs, anthrop
 - [Claude Code best practices | Code w/ Claude](https://www.youtube.com/watch?v=gv0WHhKelSE)
 - [Claude Code Explained in 47 Minutes [Complete Course]](https://www.youtube.com/watch?v=wtOnAZUdP0A)
 - [MCP Tutorial for Beginners: Connect Claude to Any Tool](https://www.youtube.com/watch?v=40k3SIwlFVM)
-- [Claude Code Channels in 8 Minutes](https://www.youtube.com/watch?v=QZXaAc80OL0)
+- [Claude Code Changes in 8 Minutes](https://www.youtube.com/watch?v=QZXaAc80OL0)
 - [FULL Claude Tutorial for Beginners in 2026!](https://www.youtube.com/watch?v=rRrBbyv3ChM)
