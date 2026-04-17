@@ -142,13 +142,12 @@ topics: claude, claude-code, desktop, skills, plugins, prompts, designs, anthrop
 - []()
 
 ## Social Media Accounts
-:: TODO: Provide links to best developers I follow using Claude or Claude Code
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Alireza Rezvani](https://x.com/RezaRezvaniBln)
+- [Shayan Rais](https://x.com/shanraisshan)
+- [Daniel Avila](https://x.com/dani_avila7)
+- [intentsolutions.io](https://github.com/jeremylongshore)
+- [Seth Hobson](https://github.com/wshobson)
 
 ## YouTube Videos
 :: TODO: I have less of these, but provide links to best YouTube videos I have saved
