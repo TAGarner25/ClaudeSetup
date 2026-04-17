@@ -21,7 +21,7 @@ import path from 'node:path';
 const HEX_COLOR_REGEX = /#[0-9A-Fa-f]{6}/;
 
 async function validateComponent(filePath) {
-  const code = fs.readFileSync(filePath, 'utf-8');
+  const code = await fs.promises.readFile(filePath, 'utf-8');
   const filename = path.basename(filePath);
   try {
     const ast = await swc.parse(code, { syntax: "typescript", tsx: true });
