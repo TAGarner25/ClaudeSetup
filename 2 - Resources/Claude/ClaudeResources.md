@@ -144,10 +144,10 @@ topics: claude, claude-code, desktop, skills, plugins, prompts, designs, anthrop
 ## Social Media Accounts
 
 - [Alireza Rezvani](https://x.com/RezaRezvaniBln)
-- [Shayan Rais](https://x.com/shanraisshan)
 - [Daniel Avila](https://x.com/dani_avila7)
-- [intentsolutions.io](https://github.com/jeremylongshore)
+- [Jeremy Longshore (intentsolutions.io)](https://github.com/jeremylongshore)
 - [Seth Hobson](https://github.com/wshobson)
+- [Shayan Rais](https://x.com/shanraisshan)
 
 ## YouTube Videos
 :: TODO: I have less of these, but provide links to best YouTube videos I have saved
