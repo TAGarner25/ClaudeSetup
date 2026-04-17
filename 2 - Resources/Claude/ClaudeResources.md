@@ -133,13 +133,12 @@ topics: claude, claude-code, desktop, skills, plugins, prompts, designs, anthrop
 - []()
 
 ## Websites
-:: TODO: Provide links to best website resources
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library)
+- [Anthropic System Prompts Release Notes](https://docs.anthropic.com/en/release-notes/system-prompts)
+- [Smithery MCP Directory](https://smithery.ai/)
+- [Glama MCP Servers Directory](https://glama.ai/mcp/servers)
+- [Claude AI Subreddit](https://www.reddit.com/r/ClaudeAI/)
 
 ## Social Media Accounts
 :: TODO: Provide links to best developers I follow using Claude or Claude Code
