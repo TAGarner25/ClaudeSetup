@@ -28,8 +28,6 @@ async function validateComponent(filePath) {
     let hasInterface = false;
     let tailwindIssues = [];
 
-    console.log("🔍 Scanning AST...");
-
     const walk = (node) => {
       if (!node) return;
       if (node.type === 'TsInterfaceDeclaration' && node.id.value.endsWith('Props')) hasInterface = true;
