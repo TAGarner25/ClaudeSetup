@@ -133,28 +133,25 @@ topics: claude, claude-code, desktop, skills, plugins, prompts, designs, anthrop
 - []()
 
 ## Websites
-:: TODO: Provide links to best website resources
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library)
+- [Anthropic System Prompts Release Notes](https://docs.anthropic.com/en/release-notes/system-prompts)
+- [Smithery MCP Directory](https://smithery.ai/)
+- [Glama MCP Servers Directory](https://glama.ai/mcp/servers)
+- [Claude AI Subreddit](https://www.reddit.com/r/ClaudeAI/)
 
 ## Social Media Accounts
-:: TODO: Provide links to best developers I follow using Claude or Claude Code
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Alireza Rezvani](https://x.com/RezaRezvaniBln)
+- [Daniel Avila](https://x.com/dani_avila7)
+- [Jeremy Longshore (intentsolutions.io)](https://github.com/jeremylongshore)
+- [Seth Hobson](https://github.com/wshobson)
+- [Shayan Rais](https://x.com/shanraisshan)
 
 ## YouTube Videos
-:: TODO: I have less of these, but provide links to best YouTube videos I have saved
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Claude Code best practices | Code w/ Claude](https://www.youtube.com/watch?v=gv0WHhKelSE)
+- [Claude Code Explained in 47 Minutes [Complete Course]](https://www.youtube.com/watch?v=wtOnAZUdP0A)
+- [MCP Tutorial for Beginners: Connect Claude to Any Tool](https://www.youtube.com/watch?v=40k3SIwlFVM)
+- [Claude Code Changes in 8 Minutes](https://www.youtube.com/watch?v=QZXaAc80OL0)
+- [FULL Claude Tutorial for Beginners in 2026!](https://www.youtube.com/watch?v=rRrBbyv3ChM)
