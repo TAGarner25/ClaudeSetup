@@ -33,7 +33,7 @@ if [[ "$OUTPUT" == -* ]]; then
 fi
 
 echo "Initiating high-reliability fetch for Stitch HTML..."
-curl -L -f -sS --connect-timeout 10 --compressed -o "$OUTPUT" -- "$URL"
+curl -L -f -sS --connect-timeout 10 --compressed --proto "=http,https" --proto-redir "=http,https" -o "$OUTPUT" -- "$URL"
 if [ $? -eq 0 ]; then
   echo "✅ Successfully retrieved HTML at: $OUTPUT"
   exit 0
